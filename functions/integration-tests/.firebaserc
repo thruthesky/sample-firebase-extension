@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "withcenter-test-2"
+  },
+  "targets": {},
+  "etags": {
+    "withcenter-test-2": {
+      "extensionInstances": {
+        "firestore-palm-chatbot": "ba538150f98df24c2c7fd649aaa70aaa026bc962d5d070338eeeac8bc8fefef4",
+        "greet-from-withcenter": "afa56c0c16e3b34066b8e89f10e147da44116dd7a7d316e15c36699847e60a25",
+        "storage-resize-images": "19c0ad9fb7cad68f84206ae74d8e19c1e4e50b73eaed045f7fa2057340bd932a"
+      }
+    }
+  }
+}
